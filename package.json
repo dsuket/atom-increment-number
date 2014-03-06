@@ -8,7 +8,7 @@
     "increment-number:increase",
     "increment-number:decrease"
   ],
-  "repository": "https://github.com/dsuket/increment-number",
+  "repository": "https://github.com/dsuket/atom-increment-number",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
