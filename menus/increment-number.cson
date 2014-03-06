@@ -1,0 +1,17 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable increment-number': 'increment-number:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Increment Number'
+      'submenu': [
+        { 'label': 'Incremnet', 'command': 'increment-number:increase' },
+        { 'label': 'Decremnet', 'command': 'increment-number:decrease' }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "increment-number",
+  "main": "./lib/increment-number",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A short description of your package",
+  "activationEvents": [
+    "increment-number:increase",
+    "increment-number:decrease"
+  ],
+  "repository": "https://github.com/dsuket/increment-number",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
