@@ -1,7 +1,7 @@
 {
   "name": "increment-number",
   "main": "./lib/increment-number",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "description": "A short description of your package",
   "activationEvents": [
@@ -13,6 +13,5 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
