@@ -9,8 +9,8 @@
     'submenu': [
       'label': 'Increment Number'
       'submenu': [
-        { 'label': 'Incremnet', 'command': 'increment-number:increase' },
-        { 'label': 'Decremnet', 'command': 'increment-number:decrease' }
+        { 'label': 'Increment', 'command': 'increment-number:increase' },
+        { 'label': 'Decrement', 'command': 'increment-number:decrease' }
       ]
     ]
   }
